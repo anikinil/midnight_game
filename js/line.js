@@ -10,6 +10,7 @@ class Line {
             'yellow',
             'green',
             'cyan'
+            
         ]
     }
 

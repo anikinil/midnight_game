@@ -147,6 +147,7 @@ function getLine() {
                 x2: ceilPointXt,
                 y2: ceilPointYt
             }
+            
         } else { // rechts
             return {
                 x1: ceilPointXt,
